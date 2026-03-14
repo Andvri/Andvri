@@ -1,22 +1,69 @@
-### Hi there  👋
+# Hi there 👋
 
-I am Javier 👾, Student of Artificial intelligence  and Computer science 🌱🤖
+I'm **Javier Martinez** — Senior Applied AI Engineer focused on building **real AI products in production**.
 
-Currently learning data, cloud and random stuff 🔭
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Infrastructure-blue)
+![LLM](https://img.shields.io/badge/LLM-AI-purple)
 
+I work at the intersection of **machine learning, backend engineering and product**, designing scalable AI systems from data pipelines to user-facing applications.
 
-#### 📫 How to reach me
+---
 
-[![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/Andvri)
- [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/Andvri) 
- [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/andvri/)
+## 🧠 What I work on
 
-----
-###  ⚡ GitHub
-![GitHub Follow](https://img.shields.io/github/followers/Andvri.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/Andvri?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+- Applied AI Systems
+- LLM Architectures
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning Engineering
+- AI Product Development
+- AI Platforms & Developer Tooling
+- Scalable Backend Systems
 
-<details close>
-  <summary>Statistics</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Andvri&show_icons=true&theme=dracula" width="300px">
-</details>
+---
+
+## ⚙️ Tech Stack
+
+**AI / ML**
+- Python
+- PyTorch
+- LLMs
+- RAG systems
+- NLP pipelines
+
+**Backend & Systems**
+- FastAPI
+- Async Python
+- Event-driven architectures
+- REST APIs
+- Distributed systems
+
+**Infrastructure**
+- Kubernetes
+- Docker
+- Cloud platforms
+- MLOps pipelines
+- CI/CD
+
+---
+
+## 🚀 Current Focus
+
+- Building **LLM-powered applications**
+- Designing **AI platform architectures**
+- Scaling **AI systems to production**
+- Creating **AI developer tooling**
+
+---
+
+## 📫 Reach me
+
+- GitHub: https://github.com/andvri
+- LinkedIn: https://linkedin.com/in/andvri
+
+---
+
+## ⚡ Fun fact
+
+I enjoy turning complex AI research into **simple, reliable products people actually use.**
