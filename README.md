@@ -1,69 +1,19 @@
-# Hi there 👋
+<p align="center">
+  <a href="https://andvri.com">
+    <img src="https://andvri.com/og-image.png" alt="Javier Martínez — AI. Shipped." width="640" />
+  </a>
+</p>
 
-I'm **Javier Martinez** — Senior Applied AI Engineer focused on building **real AI products in production**.
+### Hi, I'm Javier.
 
-![Python](https://img.shields.io/badge/Python-AI-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Infrastructure-blue)
-![LLM](https://img.shields.io/badge/LLM-AI-purple)
+I build **intelligent systems that work in the real world**. A model that answers well is a demo; the product is everything around it: the APIs, the data, the deployment, the evaluation and the monitoring. That's the part I enjoy.
 
-I work at the intersection of **machine learning, backend engineering and product**, designing scalable AI systems from data pipelines to user-facing applications.
+These days I spend most of my time on LLM systems: document pipelines, RAG, and making AI features reliable, observable and cheap enough to keep running.
 
----
+### Try something
 
-## 🧠 What I work on
+My site has an assistant you can question about my work: **[andvri.com/#ask](https://andvri.com/#ask)**. It's a small production system on Cloudflare Workers AI: grounded only on the site's content, streaming answers with sources, and guarded against prompt injection. Try to break it.
 
-- Applied AI Systems
-- LLM Architectures
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning Engineering
-- AI Product Development
-- AI Platforms & Developer Tooling
-- Scalable Backend Systems
+### Elsewhere
 
----
-
-## ⚙️ Tech Stack
-
-**AI / ML**
-- Python
-- PyTorch
-- LLMs
-- RAG systems
-- NLP pipelines
-
-**Backend & Systems**
-- FastAPI
-- Async Python
-- Event-driven architectures
-- REST APIs
-- Distributed systems
-
-**Infrastructure**
-- Kubernetes
-- Docker
-- Cloud platforms
-- MLOps pipelines
-- CI/CD
-
----
-
-## 🚀 Current Focus
-
-- Building **LLM-powered applications**
-- Designing **AI platform architectures**
-- Scaling **AI systems to production**
-- Creating **AI developer tooling**
-
----
-
-## 📫 Reach me
-
-- GitHub: https://github.com/andvri
-- LinkedIn: https://linkedin.com/in/andvri
-
----
-
-## ⚡ Fun fact
-
-I enjoy turning complex AI research into **simple, reliable products people actually use.**
+[andvri.com](https://andvri.com) · [CV](https://andvri.com/cv) · [LinkedIn](https://linkedin.com/in/andvri) · [contact@andvri.com](mailto:contact@andvri.com)
